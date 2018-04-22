@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoPhoto</string>
+    <string name="dig_cod">Ingrese Código</string>
+    <string name="trar_foto">Traer foto</string>
+</resources>

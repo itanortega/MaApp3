@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoPhoto</string>
+    <string name="dig_cod">Enter code</string>
+    <string name="trar_foto">Get photo</string>
+</resources>
