@@ -19,11 +19,13 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/Txt_Codigo"/>
+            android:id="@+id/Txt_Codigo"
+            android:text="27017220141"/>
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/trar_foto"/>
+            android:text="@string/trar_foto"
+            android:id="@+id/Btn_ObtenerFoto"/>
 
         <ImageView
             android:layout_width="170dp"
